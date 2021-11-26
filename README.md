@@ -1,3 +1,4 @@
 # Apps
-Compiled apps
+**Compiled apps**
+
 Contains apps that are ready to run
